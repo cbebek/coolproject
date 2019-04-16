@@ -1,5 +1,10 @@
 console.log('hello world!');
 console.log('hello world!');
+<<<<<<< HEAD
 console.log('hello earth!');
+console.log('hello world!');
+=======
+console.log('hello world!');
 console.log('hello mars!');
+>>>>>>> 9fb4daee62bbd5344684ed059b30681436bb3edc
 console.log('hello world!');
